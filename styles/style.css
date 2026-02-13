@@ -15,12 +15,10 @@
   justify-self: center;
   display: block;
   width: 148px;
-  margin-top: 92;
-  margin-bottom: 96;
 }
 
 .header__logo-image {
-  width: 148px !important;
+  width: 148px;
   height: 105px;
   display: block;
   margin-top: 92px;
@@ -34,6 +32,7 @@
   list-style: circle;
   font-size: 18px;
 }
+
 .header__links-item-1 {
   list-style: none;  
 }
@@ -143,8 +142,6 @@
   justify-content: space-between;
   flex-wrap: wrap;
   gap: 24px;
-  margin: 0;
-  padding: 0;
  } 
 
  .lots__card-list-item {
